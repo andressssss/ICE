@@ -21,10 +21,10 @@ Primary use:
     src: url('../../assets/fonts/Montserrat/Montserrat-SemiBold.ttf'); 
   }
   
-  @font-face {
+  /*@font-face {
     font-family: Playlist Script;
     src: url('../../assets/fonts/Playlist/Playlist Script.otf'); 
-  }
+  }*/
   
   
   
